@@ -1,0 +1,11 @@
+.portfolioColor{
+    background-color: #060D17;
+}
+
+.profilePicture{
+    background-image: url('./../../assets/sample\ pics5.jpeg');
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 93vh;
+}
